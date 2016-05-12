@@ -1,0 +1,24 @@
+{
+	"sEmptyTable":   	"没有可用的表中的数据",
+	"sInfo":         	"_START_ 到 _END_ 共 _TOTAL_ 条",
+	"sInfoEmpty":    	"数据空",
+	"sInfoFiltered": 	"(全部数据 共 _MAX_ 条)",
+	"sInfoPostFix":  	"",
+	"sInfoThousands":  	".",
+	"sLengthMenu":   	"_MENU_ 条每页",
+	"sLoadingRecords": 	"正在加载数据，请稍等...",
+	"sProcessing":   	"正在处理中，请等待...",
+	"sSearch":       	"全列查询",
+	"sZeroRecords":  	"查询无结果.",
+	"oPaginate": {
+		"sFirst":    	"首页",
+		"sPrevious": 	"上一页",
+		"sNext":     	"下一页",
+		"sLast":     	"末页"
+	},
+	"oAria": {
+		"sSortAscending":  ": aktivieren, um Spalte aufsteigend zu sortieren",
+		"sSortDescending": ": aktivieren, um Spalte absteigend zu sortieren"
+	},
+  	"select": {"rows": {"_": "你选择了 %d 行", "0": "点击行即选择", "1": "仅选了1行"}}
+}
